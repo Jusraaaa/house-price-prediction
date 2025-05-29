@@ -35,15 +35,12 @@ script/
 
 ### 🔹 Main UI Form
 
-![Form screenshot](screenshots/form.png)
-
-
+![Form screenshot](screenshots/1.png)
 
 ### 🔹 Result / Prediction Output
 
-![Prediction screenshot](screenshots/result.png)
+![Prediction screenshot](screenshots/2.png)
 
----
 
 ## ▶️ How to Run
 
