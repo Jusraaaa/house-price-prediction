@@ -35,11 +35,11 @@ script/
 
 ### 🔹 Main UI Form
 
-![Form screenshot](screenshots/1.png)
+<img src="screenshots/1.png" width="600"/>
 
 ### 🔹 Result / Prediction Output
 
-![Prediction screenshot](screenshots/2.png)
+<img src="screenshots/2.png" width="600"/>
 
 
 ## ▶️ How to Run
