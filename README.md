@@ -37,6 +37,8 @@ script/
 
 ![Form screenshot](screenshots/form.png)
 
+
+
 ### 🔹 Result / Prediction Output
 
 ![Prediction screenshot](screenshots/result.png)
